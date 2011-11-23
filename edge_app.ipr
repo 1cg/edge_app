@@ -171,10 +171,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EdgeRonin.iml" filepath="$PROJECT_DIR$/EdgeRonin.iml" />
+      <module fileurl="file://$PROJECT_DIR$//EdgeTosa.iml" filepath="$PROJECT_DIR$//EdgeTosa.iml" />
       <module fileurl="file://$PROJECT_DIR$/Edge_app.iml" filepath="$PROJECT_DIR$/Edge_app.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="Default Gosu SDK" project-jdk-type="Gosu SDK">
+  <component name="ProjectResources">
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="Default Gosu SDK" project-jdk-type="Gosu SDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="VcsDirectoryMappings">

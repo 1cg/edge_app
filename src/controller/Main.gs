@@ -9,7 +9,11 @@ uses ronin.*
 class Main extends RoninController {
 
   function index() {
-    view.Main.render(writer)
+    view.Main.render(Writer)
+  }
+
+  function test() {
+    view.Main.render(Writer)
   }
 
 }

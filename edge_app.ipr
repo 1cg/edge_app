@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AntConfiguration">
+    <defaultAnt bundledAnt="true" />
+  </component>
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" value="Javac" />
     <resourceExtensions />
@@ -167,6 +170,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EdgeRonin.iml" filepath="$PROJECT_DIR$/EdgeRonin.iml" />
       <module fileurl="file://$PROJECT_DIR$/Edge_app.iml" filepath="$PROJECT_DIR$/Edge_app.iml" />
     </modules>
   </component>
@@ -174,7 +178,9 @@
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/edge/ronin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/edge/tosa" vcs="Git" />
   </component>
   <component name="libraryTable">
     <library name="lib">
